@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View view) {
         if (btn_games.isPressed()){
-            Intent intent = new Intent(this, TrueOrFalse.class);
+            Intent intent = new Intent(this, GamesActivity.class);
             startActivity(intent);
         }
     }
