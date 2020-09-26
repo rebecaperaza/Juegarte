@@ -12,4 +12,11 @@
     <string name="false_btn">Falso</string>
     <string name="games">Games</string>
 
+    <array name="answers">
+        <item>San Jose</item>
+        <item>Panama</item>
+        <item>Santiago</item>
+        <item>Whasington DC</item>
+    </array>
+
 </resources>
