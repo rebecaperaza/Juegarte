@@ -23,4 +23,11 @@
         <item>Buen trabajo!;false</item>
     </array>
 
+    <array name="answers">
+        <item>San Jose</item>
+        <item>Panama</item>
+        <item>Santiago</item>
+        <item>Whasington DC</item>
+    </array>
+
 </resources>
