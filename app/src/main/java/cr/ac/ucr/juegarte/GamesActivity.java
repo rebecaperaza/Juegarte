@@ -25,7 +25,7 @@ public class GamesActivity extends AppCompatActivity implements View.OnClickList
     @Override
     public void onClick(View view) {
         if (btn_questinary.isPressed()){
-            Intent intent = new Intent(this, TrueOrFalse.class);
+            Intent intent = new Intent(this, QuestionsActivity.class);
             startActivity(intent);
         } if (btn_true_false.isPressed()){
             Intent intent = new Intent(this, TrueOrFalse.class);
