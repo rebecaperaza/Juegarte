@@ -12,10 +12,15 @@
 
     <string name="true_btn">True</string>
     <string name="false_btn">False</string>
+    <string name="games">Games</string>
 
     <array name="questions">
         <item>True answer;true</item>
         <item>False answer;false</item>
+        <item>Tercera pregunta;false</item>
+        <item>Cuarta pregunta;false</item>
+        <item>Quinta pregunta;true</item>
+        <item>Buen trabajo!;false</item>
     </array>
 
 </resources>

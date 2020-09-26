@@ -10,21 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".TrueOrFalse">
+        </activity>
+        <activity android:name=".PerfilActivity" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/AppTheme.Splash">
+        </activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PerfilActivity" />
-        <activity
-            android:name=".SplashActivity"
-            android:theme="@style/AppTheme.Splash">
-
-        </activity>
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>

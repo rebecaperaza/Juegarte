@@ -10,5 +10,6 @@
 
     <string name="true_btn">Verdadero</string>
     <string name="false_btn">Falso</string>
+    <string name="games">Games</string>
 
 </resources>
